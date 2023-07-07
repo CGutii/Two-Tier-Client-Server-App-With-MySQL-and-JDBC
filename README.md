@@ -21,6 +21,7 @@ Before running the application, make sure you have the following:
 - Create a client-level user with limited permissions on the project2 and bikedb schemas.
 - Create the operationslog database using the project2operationslog.sql script.
 - Configure the necessary properties files for database driver, URL, and user credentials.
+- Have the mySQL connector in your coding environment as a referenced external library.
 
 ## Usage
 
